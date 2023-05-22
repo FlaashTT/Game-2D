@@ -1,0 +1,73 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Mapa.tmx",
+    "expandedProjectPaths": [
+        "The world of the farm/The World",
+        "The world of the farm/The World/data",
+        "The world of the farm"
+    ],
+    "fileStates": {
+        "Mapa.tmx": {
+            "scale": 0.42,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1022.6190476190477,
+                "y": 989.2857142857142
+            }
+        },
+        "The world of the farm/The World/data/Tilesets/Fences.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/Hills.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/House Decoration.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/House.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/Objects.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/Paths.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/Plant Decoration.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/Water.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/Tilesets/interaction.tsx": {
+            "scaleInDock": 1
+        },
+        "The world of the farm/The World/data/map.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1513.6363636363635,
+                "y": 1153.030303030303
+            }
+        }
+    },
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 30,
+    "openFiles": [
+        "Mapa.tmx"
+    ],
+    "project": "Mapa.tiled-project",
+    "recentFiles": [
+        "Mapa.tmx",
+        "The world of the farm/The World/data/map.tmx"
+    ]
+}
